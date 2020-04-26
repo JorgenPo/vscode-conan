@@ -25,4 +25,5 @@ There is no settings yet.
 #### Added
  - Conan Requirements tree view
  
+<hr>
 Thank you for using Vscode-Conan extension!

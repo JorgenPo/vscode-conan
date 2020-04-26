@@ -4,7 +4,7 @@ Conan support for visual studio code.
 
 ## Features
 
-Conan dependencies tree view:
+Conan dependencies tree view:<br/>
 ![Dependency tree view](images/tree_view.png)
 
 ## Requirements

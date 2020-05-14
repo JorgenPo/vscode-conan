@@ -4,7 +4,7 @@ All notable changes to the "vs-conan" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [Backlog]
 
 - Install conan command support
 - Install --build=missing command support
@@ -15,6 +15,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Notification about new versions
 - New conan file template creation
 - Exporting conan receipe 
+
+## [Unreleased]
+- Conan executable check
 
 ## [0.1.0] - 2020-04-26
 ### Added

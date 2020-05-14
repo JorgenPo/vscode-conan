@@ -17,11 +17,20 @@
 	"contributes": {
 		"commands": [
 			{
-				"command": "vs-conan.about",
-				"category": "Vs-Conan",
-				"title": "About"
+				"command": "code-conan.install",
+				"category": "Dependency Managment",
+				"title": "Install all dependencies"
 			}
 		],
+		"menus": {
+			"view/title": [
+				{
+					"command": "code-conan.install",
+					"when": "view == conanDependencies",
+					"group": "navigation"
+				}
+			]
+		},
 		"views": {
 			"explorer": [
 				{
